@@ -1,0 +1,9 @@
+string:
+       -it is a collection of alpha numaric data,special characters
+       -they are built in methods to perform string operations
+       -like   lower to upper,upper to lower
+       -and it check   is digit or is number
+       -and find length of string,searching a string
+       
+       -it is immutable data type.we can't update string after creatig
+       -ex:  str='ramu creates wonders
